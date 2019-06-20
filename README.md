@@ -8,68 +8,75 @@ Why Web Fonts? They make a huge impact on the look and feel of your website, as 
 
 After completing this lesson, participants will be able to:
 
-*   Define the purpose and advantages of using web fonts.
-*   Embed web fonts to your website using Google Fonts library or using `@font-face`, while being able to explain the implications of this choice.
+*   Define the purpose and advantages of using web fonts
+*   Illustrate how to embed web fonts on a website from several sources using script, plugin or with css
+*   Show implications and difficulties that can arise from using web fonts
+*   Explain how to use the same fonts in all your design projects
 
 ## Target Audience
 Who is this lesson intended for? What interests/skills would they bring? Choose all that appy.
 
-- [ ] Users
+- [ ] Users / Content Writers
 - [x] Designers
 - [ ] Developers
 - [ ] Speakers
-- [ ] All
+- [ ] Organizers
+- [ ] Kids
 
 ## Experience Level
 How much experience would a participant need to get the most from this lesson?
 
-- [ ] Beginner
+- [x] Beginner
 - [ ] Intermediate
 - [ ] Advanced
-- [ ] Any
 
 ## Type of instruction
 Which strategies will be used for this lesson plan? Choose all that appy.
 
-- [ ] Demonstration
+- [x] Demonstration
 - [ ] Discussion
 - [ ] Exercises
 - [ ] Feedback
-- [ ] Lecture (Presentation)
+- [x] Lecture (Presentation)
+- [x] Slides
 - [ ] Show & Tell
 - [ ] Tutorial
 
 ## Time Estimate (Duration)
-How long will it take to teach this lesson (in minutes)?
+How long will it take to present this lesson? Put an "x" in the brackets for the one that applies.
 
-____ minutes
+* [x] 1 hour or less
+* [ ] 2-4 hours (half-day)
+* [ ] 5-8 hours (full-day)
+* [ ] 2 days
+* [ ] 3 days or more
 
 ## Prerequisite Skills
 
 *   Basic knowledge of HTML/[CSS](https://make.wordpress.org/training/handbook/theme-school/intro-to-css/)
-*   Basic knowledge of [installing and activating WordPress themes](https://make.wordpress.org/training/handbook/lesson-plans/user-lessons/choosing-and-installing-a-theme/)
-*   Understanding of how folders and files are structured
-*   Ability to edit files with a text editor
+*   Basic knowledge of installing and activating WordPress themes.
+*   Basic knowledge of installing and activating WordPress plugins
 
 ## Readiness Questions
 
-* Are you familiar with the concept of a theme in WordPress?
-* Have you worked on a child theme/modified your installed theme before?
-* Do you have a self-hosted WordPress website?
+*   Are you familiar with the concept of using fonts in WordPress?
+*   Have you worked on a child theme/modified your installed theme before?
+*   Do you have a self-hosted WordPress website?
 
 ## Slides
 
-* [Slides](https://wptrainingteam.github.io/lesson-plans/web-fonts/slides/) (files included in this repo)
+* [Slides](https://wptrainingteam.github.io/dev/lesson-plan/web-fonts/slides/) (files included in this repo)
 
 ## Materials Needed
 
 *   WordPress installation
-*   [Twenty Sixteen](https://wordpress.org/themes/twentysixteen/) theme
+*   [Twenty Nineteen](https://wordpress.org/themes/twentynineteen/) theme
 *   [Indie flower](https://www.google.com/fonts/specimen/Indie+Flower) font
 *   [Meadowbrook](http://www.dafont.com/meadowbrook.font) font
 *   [Squirrels @font-face generator](http://www.fontsquirrel.com/fontface/generator)
+*   [Skyfonts Google Font downloader](https://www.fonts.com/web-fonts/google)
 
-## Notes for the Instructor
+## Notes for the Presenter
 
 *   The recommended way to approach the scenarios would be to demonstrate and explain the process first and then ask students to repeat the actions using their own devices, while you’re available for questions and troubleshooting if something doesn’t work out.
 *   It is easiest for students to work on a locally installed copy of WordPress. Set some time aside before class to assist students with installing WordPress locally if they need it or, if possible, send them instructions before the class so they can come prepared. For more information on how to install WordPress locally, please visit our [Teacher Resources](https://make.wordpress.org/training/teacher-resources/) page.
@@ -120,6 +127,7 @@ Add an additional font to your site for the blog header using either one of the 
 
 *  Make sure to read [Playing with Fonts](http://codex.wordpress.org/Playing_With_Fonts) @ Codex, and note this article has an extensive Font resources/troubleshooting section.
 *  [CSS Web Safe Font Combinations](http://www.w3schools.com/cssref/css_websafe_fonts.asp) @ w3schools is a list of some commonly used font combinations, organized by generic family.``
+*  A way to self-host Google Fonts when privacy issues are a concern is to use [Google Web Fonts Helper](https://google-webfonts-helper.herokuapp.com/fonts)
 
 ## Hands-on Walkthrough
 
